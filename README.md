@@ -46,3 +46,9 @@ See below screenshots:
 ![Google Map](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/Screenshot%20from%202022-09-21%2012-07-10.png)
 ### By clicking on markers, the user sees more descriptions on the markers
 ![Google Map](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/Screenshot%20from%202022-09-21%2012-07-22.png)
+## 18. Switching to merchant/shopkeeper
+![Switch to merchant](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/switchsk.png)
+## 19. Manage shop
+### The shopkeepers is able to see the shops he owns and manage as shown below
+![Manage shop](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/mangeshop.png)
+## 20. 
