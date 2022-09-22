@@ -11,3 +11,11 @@ See below screenshots:
 ![Login](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/Screenshot%20from%202022-09-21%2012-03-56.png)
 ## 2. Or Register
 ![Register](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/Screenshot%20from%202022-09-21%2012-10-44.png)
+## 3. Home
+![Home](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/Screenshot%20from%202022-09-21%2012-04-59.png)
+## 4. Switch Shop
+![Switch shop](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/change%20shop.png)
+## 5. Logged in user
+![Loggedin](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/loggedin.png)
+## 6. Items of a shop
+![Items](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/items.png)
