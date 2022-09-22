@@ -59,6 +59,15 @@ See below screenshots:
 ### A user can delete or close a shop completely
 ![Delete shop](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/deleteshop.png)
 ## 23. Add item to the shop
-### A shopkeeper is able to add items to the shop
+### A shopkeeper is able to add items to the shop including their own unique image of the item
 ![Add item](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/additem.png)
-##
+## 24. Shop orders
+### A shopkeeper is able to all orders placed in his/her shop by the customers
+![Shop orders](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/shoporders.png)
+## 25. Managing shop orders
+### The shopkeeper can manage all the placed orders as shown below
+![Manage orders](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/Screenshot%20from%202022-09-21%2012-09-47.png)
+## 26. Orders time
+### Every time an order is placed or its status is changed, the current time is recorded and can be seen as shown below.
+![Order time](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/timeordered.png)
+
