@@ -19,3 +19,11 @@ See below screenshots:
 ![Loggedin](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/loggedin.png)
 ## 6. Items of a shop
 ![Items](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/items.png)
+## 7. Recommendations
+![Recommendations](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/recommendations.png)
+## 8. See the cart (To see the cart a user clicks where shown)
+![See cart](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/cart.png)
+## 9. Cart items (Items that a users has added to his cart)
+![Cart items](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/Screenshot%20from%202022-09-21%2012-09-25.png)
+## 10. Order (To see the orders a user clicks where shown)
+![Orders](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/orders.png)
