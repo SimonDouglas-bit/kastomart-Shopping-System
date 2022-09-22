@@ -25,5 +25,14 @@ See below screenshots:
 ![See cart](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/cart.png)
 ## 9. Cart items (Items that a users has added to his cart)
 ![Cart items](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/Screenshot%20from%202022-09-21%2012-09-25.png)
-## 10. Order (To see the orders a user clicks where shown)
+## 10. Orders (To see the orders placed, a user clicks where shown)
 ![Orders](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/orders.png)
+## 11. Placed orders (The orders that a user placed)
+![Placed orders](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/Screenshot%20from%202022-09-21%2012-07-45.png)
+## 12. Pay for the cart (A customer can pay for the cart once it has been approved by the shopkeeper)
+![Pay for cart](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/orderpay.png)
+## 13. In placed orders, a user can also pay for the cart
+![Pay from orders](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/mpesa.png)
+## 14. Confirm delivery
+### If the customer already picked for the cart, he/she can confirm he picked to avoid conflicting self
+![Confirm delivery](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/confirmdelivered.png)
