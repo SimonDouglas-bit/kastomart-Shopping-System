@@ -36,3 +36,13 @@ See below screenshots:
 ## 14. Confirm delivery
 ### If the customer already picked for the cart, he/she can confirm he picked to avoid conflicting self
 ![Confirm delivery](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/confirmdelivered.png)
+## 15. Seeing shop information
+### If the customer wants to find more about a shop
+![Shop info](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/info.png)
+## 16. Shop information
+![Shop information](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/Screenshot%20from%202022-09-21%2012-06-33.png00)
+## 17. Google map
+### By scrolling down in the information page, the customer is able to see the area map
+![Google Map](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/Screenshot%20from%202022-09-21%2012-07-10.png)
+### By clicking on markers, the user sees more descriptions on the markers
+![Google Map](https://github.com/SimonDouglas-bit/Shopping-System/blob/main/images/Screenshot%20from%202022-09-21%2012-07-22.png)
